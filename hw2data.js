@@ -47,6 +47,6 @@
       "gender": "male",
       "birthdate": "11/28/85",
       "address": "457 108th St"
-    },
+    }
   ]
 }
