@@ -10,7 +10,7 @@
     },
     {
       "name": "Brielle Williamson",
-      "email": "briew@rocketmail.com"
+      "email": "briew@rocketmail.com",
       "phone": "202-545-0265",
       "gender": "female",
       "birthdate": "03/02/94",
