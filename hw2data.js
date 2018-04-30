@@ -20,7 +20,7 @@
       "name": "Jordan Dunn",
       "email": "jdunn@gmail.com",
       "phone": "617-585-0151",
-      "gender": "male",
+      "gender": "female",
       "birthdate": "08/14/90",
       "address": "145 Dartmouth St"
     },
@@ -53,7 +53,7 @@
       "email": "swhite@yahoo.com",
       "phone": "202-878-0113",
       "gender": "female",
-      "birthdate": "01/28/97",
+      "birthdate": "01/28/67",
       "address": "403 S 57th St"
     },
     {
