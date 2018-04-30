@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <employees>
+  <customers>
     <data>
       <name>Ian Bourdin</name>
       <designation>Accountant</designation>
@@ -120,4 +120,4 @@
       <office>Edinburgh</office>
       <order>9497</order>
     </data>
-  </employees>
+  </customers>
