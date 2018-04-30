@@ -2,7 +2,7 @@
   <customers>
     <data>
       <name>Ian Bourdin</name>
-      <designation>In-store</designation>
+      <type>In-store</type>
       <amount>$170.75</amount>
       <order_date>2015/07/25</order_date>
       <state>CA</state>
@@ -10,7 +10,7 @@
     </data>
     <data>
       <name>Brie Williams</name>
-      <designation>Phone</designation>
+      <type>Phone</type>
       <amount>$372.00</amount>
       <order_date>2015/12/02</order_date>
       <state>CA</state>
@@ -18,7 +18,7 @@
     </data>
     <data>
       <name>Jourdan Dunn</name>
-      <designation>Online</designation>
+      <type>Online</type>
       <amount>$86.00</amount>
       <order_date>2013/01/12</order_date>
       <state>MA</state>
@@ -26,7 +26,7 @@
     </data>
     <data>
       <name>Kara Seymour</name>
-      <designation>Online</designation>
+      <type>Online</type>
       <amount>$162.70</amount>
       <order_date>2016/11/28</order_date>
       <state>WA</state>
@@ -34,7 +34,7 @@
     </data>
     <data>
       <name>Clarissa Clarkee</name>
-      <designation>In-store</designation>
+      <type>In-store</type>
       <amount>$106.45</amount>
       <order_date>2016/12/12</order_date>
       <state>MA</state>
@@ -42,7 +42,7 @@
     </data>
     <data>
       <name>Aidan Bergman</name>
-      <designation>In-store</designation>
+      <type>In-store</type>
       <amount>$183.00</amount>
       <order_date>2018/04/07</order_date>
       <state>WA</state>
@@ -50,7 +50,7 @@
     </data>
     <data>
       <name>Susan White</name>
-      <designation>Phone</designation>
+      <type>Phone</type>
       <amount>$433.06</amount>
       <order_date>2018/03/29</order_date>
       <state>WA</state>
@@ -58,7 +58,7 @@
     </data>
     <data>
       <name>Roger Ashen</name>
-      <designation>In-store</designation>
+      <type>In-store</type>
       <amount>$313.50</amount>
       <order_date>2014/12/18</order_date>
       <state>DC</state>
@@ -66,7 +66,7 @@
     </data>
     <data>
       <name>Kiara Lee</name>
-      <designation>Online</designation>
+      <type>Online</type>
       <amount>$205.93</amount>
       <order_date>2014/09/15</order_date>
       <state>NY</state>
@@ -74,7 +74,7 @@
     </data>
     <data>
       <name>Tanaka Reo</name>
-      <designation>In-store</designation>
+      <type>In-store</type>
       <amount>$217.75</amount>
       <order_date>2014/09/06</order_date>
       <state>NY</state>
@@ -82,7 +82,7 @@
     </data>
     <data>
       <name>Florence Garcon</name>
-      <designation>Online</designation>
+      <type>In-store</type>
       <amount>$137.05</amount>
       <order_date>2014/08/06</order_date>
       <state>NY</state>
@@ -90,7 +90,7 @@
     </data>
     <data>
       <name>Robert Hernandez</name>
-      <designation>Online</designation>
+      <type>Online</type>
       <amount>$327.49</amount>
       <order_date>2017/10/14</order_date>
       <state>NY</state>
@@ -98,7 +98,7 @@
     </data>
     <data>
       <name>Ailee Stark</name>
-      <designation>Online</designation>
+      <type>Online</type>
       <amount>$103.60</amount>
       <order_date>2013/12/13</order_date>
       <state>NY</state>
@@ -106,7 +106,7 @@
     </data>
     <data>
       <name>David Archer</name>
-      <designation>Online</designation>
+      <type>Online</type>
       <amount>$90.56</amount>
       <order_date>2014/12/19</order_date>
       <state>TX</state>
@@ -114,7 +114,7 @@
     </data>
     <data>
       <name>Omar Joseph</name>
-      <designation>Online</designation>
+      <type>Online</type>
       <amount>$342.01</amount>
       <order_date>2018/03/03</order_date>
       <state>TX</state>
