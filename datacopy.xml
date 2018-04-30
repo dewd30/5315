@@ -5,7 +5,7 @@
       <designation>Accountant</designation>
       <amount>$170.75</amount>
       <order_date>2015/07/25</order_date>
-      <state>California</state>
+      <state>CA</state>
       <order>42230</order>
     </data>
     <data>
@@ -13,15 +13,15 @@
       <designation>Integration Specialist</designation>
       <amount>$372.00</amount>
       <order_date>2015/12/02</order_date>
-      <state>California</state>
+      <state>CA</state>
       <order>48040</order>
     </data>
     <data>
-      <name>Jordan Dunn</name>
+      <name>Jourdan Dunn</name>
       <designation>Junior Technical Author</designation>
       <amount>$86.00</amount>
       <order_date>2013/01/12</order_date>
-      <state>Massachusetts</state>
+      <state>MA</state>
       <order>15620</order>
     </data>
     <data>
@@ -29,7 +29,7 @@
       <designation>Accountant</designation>
       <amount>$162.70</amount>
       <order_date>2016/11/28</order_date>
-      <state>Washington</state>
+      <state>WA</state>
       <order>54070</order>
     </data>
     <data>
@@ -101,7 +101,7 @@
       <designation>Software Engineer</designation>
       <amount>$103.60</amount>
       <order_date>2013/12/13</order_date>
-      <state>Edinburgh</state>
+      <state>NY</state>
       <order>16670</order>
     </data>
     <data>
@@ -109,7 +109,7 @@
       <designation>Office Manager</designation>
       <amount>$90.56</amount>
       <order_date>2014/12/19</order_date>
-      <state>London</state>
+      <state>TX</state>
       <order>38146</order>
     </data>
     <data>

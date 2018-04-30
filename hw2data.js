@@ -17,7 +17,7 @@
       "address": "451 S Hewitt St, Los Angeles, CA"
     },
     {
-      "name": "Jordan Dunn",
+      "name": "Jourdan Dunn",
       "email": "jdunn@gmail.com",
       "phone": "617-585-0151",
       "gender": "female",
