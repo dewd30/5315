@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "email": "newemail@email.com",
+      "name": "Ian Bourdin",
+      "email": "ianb7@gmail.com",
       "phone": "202-555-0183",
       "gender": "male",
       "birthdate": "07/24/84",
       "address": "8070 Melrose Ave"
     },
     {
-      "name": "Brielle Williamson",
+      "name": "Brie Williams",
       "email": "briew@rocketmail.com",
       "phone": "202-545-0265",
       "gender": "female",
