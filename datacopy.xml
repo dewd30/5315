@@ -3,7 +3,7 @@
     <data>
       <name>Ian Bourdin</name>
       <designation>Accountant</designation>
-      <salary>$170,750</salary>
+      <amount>$170.75</amount>
       <order_date>2015/07/25</order_date>
       <office>Tokyo</office>
       <order>42230</order>
@@ -11,7 +11,7 @@
     <data>
       <name>Brie Williams</name>
       <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
+      <amount>$372.00</amount>
       <order_date>2015/12/02</order_date>
       <office>New York</office>
       <order>48040</order>
@@ -19,7 +19,7 @@
     <data>
       <name>Jordan Dunn</name>
       <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
+      <amount>$86.00</amount>
       <order_date>2013/01/12</order_date>
       <office>San Francisco</office>
       <order>15620</order>
@@ -27,7 +27,7 @@
     <data>
       <name>Kara Seymour</name>
       <designation>Accountant</designation>
-      <salary>$162,700</salary>
+      <amount>$162.70</amount>
       <order_date>2016/11/28</order_date>
       <office>Tokyo</office>
       <order>54070</order>
@@ -35,7 +35,7 @@
     <data>
       <name>Clarissa Clarkee</name>
       <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
+      <amount>$106.45</amount>
       <order_date>2016/12/12</order_date>
       <office>New York</office>
       <order>60030</order>
@@ -43,7 +43,7 @@
     <data>
       <name>Aidan Bergman</name>
       <designation>Regional Director</designation>
-      <salary>$183,000</salary>
+      <amount>$183.00</amount>
       <order_date>2018/04/07</order_date>
       <office>Edinburgh</office>
       <order>63730</order>
@@ -51,7 +51,7 @@
     <data>
       <name>Susan White</name>
       <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
+      <amount>$433.06</amount>
       <order_date>2018/03/29</order_date>
       <office>Edinburgh</office>
       <order>62240</order>
@@ -59,7 +59,7 @@
     <data>
       <name>Roger Ashen</name>
       <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
+      <amount>$313.50</amount>
       <order_date>2014/12/18</order_date>
       <office>London</office>
       <order>35974</order>
@@ -67,7 +67,7 @@
     <data>
       <name>Kiara Lee</name>
       <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
+      <amount>$205.93</amount>
       <order_date>2014/09/15</order_date>
       <office>San Francisco</office>
       <order>23603</order>
@@ -75,7 +75,7 @@
     <data>
       <name>Tanaka Reo</name>
       <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
+      <amount>$217.75</amount>
       <order_date>2014/09/06</order_date>
       <office>Edinburgh</office>
       <order>22907</order>
@@ -83,7 +83,7 @@
     <data>
       <name>Florence Garcon</name>
       <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
+      <amount>$137.05</amount>
       <order_date>2014/08/06</order_date>
       <office>San Francisco</office>
       <order>21089</order>
@@ -91,7 +91,7 @@
     <data>
       <name>Robert Hernandez</name>
       <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
+      <amount>$327.49</amount>
       <order_date>2017/10/14</order_date>
       <office>Tokyo</office>
       <order>61901</order>
@@ -99,7 +99,7 @@
     <data>
       <name>Ailee Stark</name>
       <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
+      <amount>$103.60</amount>
       <order_date>2013/12/13</order_date>
       <office>Edinburgh</office>
       <order>16670</order>
@@ -107,7 +107,7 @@
     <data>
       <name>David Archer</name>
       <designation>Office Manager</designation>
-      <salary>$90,560</salary>
+      <amount>$90.56</amount>
       <order_date>2014/12/19</order_date>
       <office>London</office>
       <order>38146</order>
@@ -115,7 +115,7 @@
     <data>
       <name>Omar Joseph</name>
       <designation>Support Lead</designation>
-      <salary>$342,000</salary>
+      <amount>$342.01</amount>
       <order_date>2018/03/03</order_date>
       <office>Edinburgh</office>
       <order>62005</order>
