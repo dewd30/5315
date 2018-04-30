@@ -5,7 +5,7 @@
       <designation>Accountant</designation>
       <amount>$170.75</amount>
       <order_date>2015/07/25</order_date>
-      <office>Tokyo</office>
+      <state>California</state>
       <order>42230</order>
     </data>
     <data>
@@ -13,7 +13,7 @@
       <designation>Integration Specialist</designation>
       <amount>$372.00</amount>
       <order_date>2015/12/02</order_date>
-      <office>New York</office>
+      <state>California</state>
       <order>48040</order>
     </data>
     <data>
@@ -21,7 +21,7 @@
       <designation>Junior Technical Author</designation>
       <amount>$86.00</amount>
       <order_date>2013/01/12</order_date>
-      <office>San Francisco</office>
+      <state>Massachusetts</state>
       <order>15620</order>
     </data>
     <data>
@@ -29,7 +29,7 @@
       <designation>Accountant</designation>
       <amount>$162.70</amount>
       <order_date>2016/11/28</order_date>
-      <office>Tokyo</office>
+      <state>Washington</state>
       <order>54070</order>
     </data>
     <data>
@@ -37,7 +37,7 @@
       <designation>Pre-Sales Support</designation>
       <amount>$106.45</amount>
       <order_date>2016/12/12</order_date>
-      <office>New York</office>
+      <state>New York</state>
       <order>60030</order>
     </data>
     <data>
@@ -45,7 +45,7 @@
       <designation>Regional Director</designation>
       <amount>$183.00</amount>
       <order_date>2018/04/07</order_date>
-      <office>Edinburgh</office>
+      <state>Edinburgh</state>
       <order>63730</order>
     </data>
     <data>
@@ -53,7 +53,7 @@
       <designation>Senior Javascript Developer</designation>
       <amount>$433.06</amount>
       <order_date>2018/03/29</order_date>
-      <office>Edinburgh</office>
+      <state>Edinburgh</state>
       <order>62240</order>
     </data>
     <data>
@@ -61,7 +61,7 @@
       <designation>Senior Marketing Designer</designation>
       <amount>$313.50</amount>
       <order_date>2014/12/18</order_date>
-      <office>London</office>
+      <state>London</state>
       <order>35974</order>
     </data>
     <data>
@@ -69,7 +69,7 @@
       <designation>Javascript Developer</designation>
       <amount>$205.93</amount>
       <order_date>2014/09/15</order_date>
-      <office>San Francisco</office>
+      <state>San Francisco</state>
       <order>23603</order>
     </data>
     <data>
@@ -77,7 +77,7 @@
       <designation>Personnel Lead</designation>
       <amount>$217.75</amount>
       <order_date>2014/09/06</order_date>
-      <office>Edinburgh</office>
+      <state>Edinburgh</state>
       <order>22907</order>
     </data>
     <data>
@@ -85,7 +85,7 @@
       <designation>Sales Assistant</designation>
       <amount>$137.05</amount>
       <order_date>2014/08/06</order_date>
-      <office>San Francisco</office>
+      <state>San Francisco</state>
       <order>21089</order>
     </data>
     <data>
@@ -93,7 +93,7 @@
       <designation>Integration Specialist</designation>
       <amount>$327.49</amount>
       <order_date>2017/10/14</order_date>
-      <office>Tokyo</office>
+      <state>Tokyo</state>
       <order>61901</order>
     </data>
     <data>
@@ -101,7 +101,7 @@
       <designation>Software Engineer</designation>
       <amount>$103.60</amount>
       <order_date>2013/12/13</order_date>
-      <office>Edinburgh</office>
+      <state>Edinburgh</state>
       <order>16670</order>
     </data>
     <data>
@@ -109,7 +109,7 @@
       <designation>Office Manager</designation>
       <amount>$90.56</amount>
       <order_date>2014/12/19</order_date>
-      <office>London</office>
+      <state>London</state>
       <order>38146</order>
     </data>
     <data>
@@ -117,7 +117,7 @@
       <designation>Support Lead</designation>
       <amount>$342.01</amount>
       <order_date>2018/03/03</order_date>
-      <office>Edinburgh</office>
+      <state>Edinburgh</state>
       <order>62005</order>
     </data>
   </customers>
